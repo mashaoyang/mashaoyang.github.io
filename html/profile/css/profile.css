@@ -1,0 +1,48 @@
+
+
+
+#nav{
+    position: relative;
+    margin:0;
+    width: 100%;
+    height: 300px;
+    background-image: url("../source/back_image.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 0px;
+    top:0px;
+}
+.logo_div{
+    width: 80px;
+    height:80px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+}
+.logo{
+    width: 100%;
+    height:100%;
+}
+.title_div{
+    overflow: hidden;
+    display: table;
+    margin-right: auto;
+    margin-left: auto;
+}
+.title{
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.h2_profile{
+    text-align: left;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.h2_desc{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
